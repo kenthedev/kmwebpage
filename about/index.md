@@ -1,12 +1,12 @@
 ---
 layout: page
-title: About the Theme
-tags: [about, Jekyll, theme, moon]
+title: About Me
+tags: [about]
 date: 2016-03-21
 comments: false
 ---
     
-<center><a href="http://taylantatli.github.io/Moon"><b>Moon</b></a> is a minimal, one column jekyll theme.</center>
+<center><a href="https://kendalmitchell.com"><b>Kendal Mitchell</b></a> is a software developer specializing in building immersive experiences.</center>
 
 ## Features
 * Minimal, you can focus on your content
