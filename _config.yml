@@ -1,1 +1,7 @@
+#Jekyll configuration
+name: Kendal Mitchell's Portfolio
+description: Kendal Mitchell's Portfolio Website
+url: "https://kendalmitchell.com"
+markdown: kramdown
+highlighter: rouge
 theme: jekyll-theme-dinky
