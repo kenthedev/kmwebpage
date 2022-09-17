@@ -21,5 +21,7 @@ As a child, I fell in love with the stories, music, and combat offered by popula
 
 <p>Feel free to browse through some of my projects on this site as I continue taking steps to bring those dreams to life.</p>
 
+When I'm not working or playing video games, you can find me with my violin, a book, or at a concert.
+
 I'm currently working on my own third person shooter!
 
