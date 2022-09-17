@@ -8,10 +8,9 @@ comments: false
 
 ## Welcome!
 Hey there, I'm Kendal, a senior at Drexel University studying Computer Science and Game Programming.
-
-<br></br>
-<center><b>I want others to feel empowered through the experiences I create.</b></center>
-<br></br>
+<br />
+<center><br><b>I want others to feel empowered through the experiences I create.</b></center>
+<br />
 
 <p>I believe games hold the unique ability to connect with people on levels other storytelling mediums can't always reach, no matter how small or short the experience.</p> 
 
