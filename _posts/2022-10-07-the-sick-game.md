@@ -6,7 +6,7 @@ excerpt: '3D Geometry Dash + Rhythm Game'
 project: true
 tag:
   - unity3d
-  - 2D
+  - 3D
   - game
   - isometric
 comments: true
