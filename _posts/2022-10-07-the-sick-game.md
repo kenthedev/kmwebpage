@@ -13,7 +13,7 @@ comments: true
 published: true
 ---
 
-![The Sick Game Title Screen]('assets/img/The Sick Game.png')
+![The Sick Game Title Screen]('assets\img\The Sick Game.png')
      
 The Sick Game was a submission to the DGDG Fall 2022 Jam. That ran from September 21st to October 5th. The theme for this event was "Don't Stop", which inspired our team to create a fusion between Geometry Dash and a 3D rhythm game.
 
