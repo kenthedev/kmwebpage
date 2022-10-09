@@ -6,8 +6,10 @@ date: 2016-03-21
 comments: false
 ---
 
-## Welcome!
-Hey there, I'm Kendal, a senior at Drexel University studying Computer Science and Game Programming.
+## Hey there, I'm Kendal.
+<br>
+
+<p>I'm a web, game, and software developer who's able to find success not only independently, but with a team too. I'm highly adaptable and consistently maintain level-headedness in the face of challenges. I strive to find creative, yet pragmatic solutions to problems.</p> 
 
 <br>
 <center><b>I want others to feel empowered through the experiences I create.</b></center>
