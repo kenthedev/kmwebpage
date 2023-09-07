@@ -25,5 +25,5 @@ As a child, I fell in love with the stories, music, and combat offered by popula
 
 When I'm not working or playing video games, you can find me with my violin, a book, or at a concert.
 
-I'm currently working on my own third person shooter!
+I'm currently working on my own character action game!
 
