@@ -23,6 +23,10 @@ section,
   word-wrap: break-word;
 }
 
+section.display-7 {
+  display: none !important;
+}
+
 a.mbr-iconfont:hover {
   text-decoration: none;
 }
@@ -105,10 +109,6 @@ section .mbr-background-video-preview {
   left: 0;
   right: 0;
   top: 0;
-}
-
-section.display-7 {
-  display: none !important;
 }
 
 .hidden {
