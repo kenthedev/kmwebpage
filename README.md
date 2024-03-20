@@ -1,2 +1,0 @@
-# Kendal Mitchell Personal Webpage  
-  
